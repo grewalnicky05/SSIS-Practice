@@ -1,2 +1,2 @@
 ### SSIS-Practice
-###### For practicing SSIS data solutions(ETL) with Visual Studio
+###### Practicing SSIS data solutions(ETL) with Visual Studio
